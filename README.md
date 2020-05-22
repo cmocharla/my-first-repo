@@ -2,3 +2,7 @@
 
 
 modify
+editing locally 
+
+ready to make a a commit 
+
